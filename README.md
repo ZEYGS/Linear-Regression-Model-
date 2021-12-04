@@ -1,1 +1,1 @@
-# Linear-Regression-Model-
+#The main objective of this program has been to examine the relationship between the two variables, specifically the U.S. unemployment rate’s impact on the S&P 500 stock index price over a nine year period, by developing a linear regression model as well as conducting a descriptive statistical analysis of the two variables.
